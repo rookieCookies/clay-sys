@@ -1,6 +1,6 @@
 [package]
 name = "clay-sys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Raw Rust bindings for the UI layout library Clay."
 keywords = [ "clay", "ui", "layout", "ffi", "sys" ]
