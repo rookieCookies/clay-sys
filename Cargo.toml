@@ -1,0 +1,13 @@
+[package]
+name = "clay-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Raw Rust bindings for the UI layout library Clay."
+keywords = [ "clay", "ui", "layout", "ffi", "sys" ]
+repository = "https://github.com/rookieCookies/clay-sys"
+readme = "README.md"
+license-file = "LICENSE.md"
+
+[build-dependencies]
+bindgen = "0.71.0"
+
